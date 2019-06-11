@@ -26,6 +26,7 @@ Shintaro TANAKA
 <div style="float: left; width: 45%;">
     <img src="assets/nigaoe_kuukai.png">
 </div>
+<br/>
 <div style="float: right; width: 55%;">
     <ul>
         <li>弘法が良い筆使ったらもっといいに決まってるだろ！！いい加減にしろ!!</li>
@@ -109,8 +110,7 @@ IntelliJ / PyCharm にもあります
 - 素振りのように「何かしたらNormalモードに遷移」を手になじませる
 
 +++
-@size[12px]
-
+@size[12px](
 | キーボード操作| 機能|
 |:-----------|:------------|
 | ノーマルモードで `i` | インサートモードに遷移 |
@@ -119,7 +119,7 @@ IntelliJ / PyCharm にもあります
 | ノーマルモードで `V` | 行選択モードに遷移 |
 | ノーマルモードで `Ctrl + V` | 矩形選択モードに遷移 |
 | あらゆるモードからで `Esc / Ctrl + [ / Ctrl + C` | ノーマルモードに遷移 |
-
+)
 +++
 
 #### これだけ覚える カウントとモーション
@@ -267,6 +267,7 @@ $ vimtutor
 <div style="float: left; width: 45%;">
     <img src="https://images-fe.ssl-images-amazon.com/images/I/51c5qMHV5VL.jpg">
 </div>
+<br/>
 <div style="float: right; width: 55%;">
     <ul>
         <li>こんなスライドよりまずこれやるべき</li>
