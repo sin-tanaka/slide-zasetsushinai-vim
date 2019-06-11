@@ -1,3 +1,4 @@
 theme: night
 slide-number: true
 footnote: "copyright 2019 @sin-tanaka"
+transition : fade
