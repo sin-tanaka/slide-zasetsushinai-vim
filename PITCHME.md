@@ -195,7 +195,7 @@ IntelliJ / PyCharm にもあります
 ロードマップ
 
 - [キーリピート](https://qiita.com/seteen/items/5698089808612f6b87e0)の速度変える
-- JetBrains系のIDEのVimプラグイン `IdeaVim` を入れる
+- JetBrains系のIDEのプラグイン `IdeaVim` の導入
 - `hjkl(移動)`, `x(一文字削除)`, インサートモード⇔ノーマルモードの遷移, `u/Ctrl+R(アンドゥ・リドゥ)`
   - ここまでで習得すれば今までの作業スピードを超える
 - `w / b(単語単位での移動)` 、 `dc (オペレータ)` と.コマンド
