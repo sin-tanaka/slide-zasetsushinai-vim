@@ -201,20 +201,6 @@ IntelliJ / PyCharm にもあります
 
 実践
 
-+++
-
-```js
-var foo = 'foo'
-var bar = 'bar'
-var ham = 'ham'
-var spam = 'spam'
-var egg = 'egg'
-
-function f() {
-  console.log('Emacs')
-}
-```
-
 ---
 
 これだけ覚えてあなたもVimmer！
