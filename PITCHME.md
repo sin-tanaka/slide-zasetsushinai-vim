@@ -26,7 +26,7 @@ Shintaro TANAKA
 
 #### 「弘法筆を選ばず」の本当の意味
 
-<img style="height: 40%;" src="assets/nigaoe_kuukai.png">
+<img style="height: 30%;" src="assets/nigaoe_kuukai.png">
 
 - 君たちは弘法じゃないから道具にこだわりを持とうな！！ |
 
@@ -57,7 +57,7 @@ Shintaro TANAKA
 
 - 時代は移り変わる |
     - 10数年前 VSCode とか Atom とか SublimeText とかない |
-- **キーバインド** を覚える + エディタのキーバインド変えるプラグイン使うのが汎用性が高い |
+- `キーバインド` を覚える + エディタのキーバインド変えるプラグイン使うのが汎用性が高い |
 - じゃあ何のエディタのキーバインド覚えるのがいいのか？ |
 
 ---
@@ -92,7 +92,8 @@ Shintaro TANAKA
 
 ### 明確にしておく
 
-新しく何かをやるときのコツ メリデメ & 期間を考える
+新しく何かをやるときのコツ
+メリデメ & 期間を考えておく
 
 - 現状の入力と同程度の編集ができるようになるまで、最長でどの程度かかるか？ |
 - キーボードから手を離さなくてよくなる以上のメリットとは何か？ |
@@ -102,11 +103,11 @@ Shintaro TANAKA
 
 1ヶ月でVim完全習得ロードマップ
 
-- 1週目間(ここで今までの作業スピードを超える)
+- 1週目 (ここで今までの作業スピードを超える)
     - [キーリピート](https://qiita.com/seteen/items/5698089808612f6b87e0)の速度変える
     - JetBrains系のIDEのプラグイン `IdeaVim` の導入
     - `hjkl(移動)`, `x(一文字削除)`, インサートモード⇔ノーマルモードの遷移, `u/Ctrl+R(アンドゥ・リドゥ)`
-- 2-4週目(ここからVim特有のメリット享受できる)
+- 2-4週目 (ここからVim特有のメリット享受できる)
     - `w / b(単語単位での移動)` 、 `dc (オペレータ)` と.コマンド
     - `dd(行削除)`, `yy(行コピー)`, `p(ペースト)`
     - いろんなインサートモードへの遷移の仕方、画面単位での行移動、etc
@@ -145,9 +146,6 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 ### これだけ覚える モード
 
-<img style="width: 45%;" src="assets/mode.png">
-
-
 +++
 
 | キーボード操作| 機能|
@@ -161,12 +159,16 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 +++
 
+<img style="width: 60%;" src="assets/mode.png">
+
++++
+
 ### 素振りをする
 
-- Normalモードがすべて中心
-- 「何かする」 ⇔ 「Normalモードに遷移」を手になじませる
-- Ecsは遠いしTouchBarがゴミなので `Ctrl + [` がオススメ
-    - CapsをCtrlにしてない場合その設定もしておく
+- Normalモードがすべての中心 |
+- 「何かする」 ⇔ 「Normalモードに遷移」を手になじませる |
+    - Ecsは遠いしTouchBarがゴミなので `Ctrl + [` がオススメ |
+    - CapsをCtrlにしてない場合その設定もしておく |
 
 +++
 
@@ -205,7 +207,7 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 #### 余談: 日常にあふれるVimのキーバインドに触れる
 
-| サービス名| コマンド|
+| | |
 |:-----------|:------------|
 | Twitter | j / k |
 | Facebook | j / k |
