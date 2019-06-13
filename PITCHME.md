@@ -26,7 +26,7 @@ Shintaro TANAKA
 
 #### 「弘法筆を選ばず」の本当の意味
 
-<img style="height: 30%;" src="assets/nigaoe_kuukai.png">
+<img style="width: 30%;" src="assets/nigaoe_kuukai.png">
 
 - 君たちは弘法じゃないから道具にこだわりを持とうな！！ |
 
@@ -57,7 +57,7 @@ Shintaro TANAKA
 
 - 時代は移り変わる |
     - 10数年前 VSCode とか Atom とか SublimeText とかない |
-- `キーバインド` を覚える + エディタのキーバインド変えるプラグイン使うのが汎用性が高い |
+- キーバインドを覚える + エディタのキーバインド変えるプラグイン使うのが汎用性が高い |
 - じゃあ何のエディタのキーバインド覚えるのがいいのか？ |
 
 ---
@@ -165,10 +165,10 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 ### 素振りをする
 
-- Normalモードがすべての中心 |
-- 「何かする」 ⇔ 「Normalモードに遷移」を手になじませる |
-    - Ecsは遠いしTouchBarがゴミなので `Ctrl + [` がオススメ |
-    - CapsをCtrlにしてない場合その設定もしておく |
+- Normalモードがすべての中心
+- 「何かする」 ⇔ 「Normalモードに遷移」を手になじませる
+    - Ecsは遠いし何よりTouchBarだと厳しいので `Ctrl + [` がオススメ
+    - CapsをCtrlにしてない場合その設定もしておく
 
 +++
 
@@ -196,6 +196,8 @@ defaults write -g KeyRepeat -int 1 # normal minimum is 2 (30 ms)
 
 - 取り消し覚えておくと安心感が全然違ってくる
 - BackSpaceに匹敵するxも覚えておく
+
++++
 
 | キーボード操作| 機能|
 |:-----------|:------------|
